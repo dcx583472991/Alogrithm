@@ -1,0 +1,28 @@
+﻿  main.cpp
+c:\users\58347\documents\visual studio 2015\projects\sort\sort\SortTestHelper.h(19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\58347\documents\visual studio 2015\projects\sort\sort\SortTestHelper.h(76): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\58347\documents\visual studio 2015\projects\sort\sort\sort.h(126): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp(21): note: 参见对正在编译的函数 模板 实例化“void Sort::quickSort<T>(T [],int)”的引用
+          with
+          [
+              T=int
+          ]
+c:\users\58347\documents\visual studio 2015\projects\sort\sort\sort.h(174): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp(22): note: 参见对正在编译的函数 模板 实例化“void Sort::quickSort2<T>(T [],int)”的引用
+          with
+          [
+              T=int
+          ]
+c:\users\58347\documents\visual studio 2015\projects\sort\sort\sort.h(229): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp(23): note: 参见对正在编译的函数 模板 实例化“void Sort::quickSort3Ways<T>(T [],int)”的引用
+          with
+          [
+              T=int
+          ]
+  正在生成代码
+  2 of 110 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  sort.vcxproj -> C:\Users\58347\Documents\Visual Studio 2015\Projects\sort\Release\sort.exe
+  sort.vcxproj -> C:\Users\58347\Documents\Visual Studio 2015\Projects\sort\Release\sort.pdb (Full PDB)

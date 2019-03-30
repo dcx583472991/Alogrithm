@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\58347\documents\visual studio 2015\projects\unionfind\unionfind\UnionFindTestHelper.h(22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\58347\documents\visual studio 2015\projects\unionfind\unionfind\UnionFindTestHelper.h(52): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\58347\documents\visual studio 2015\projects\unionfind\unionfind\UnionFindTestHelper.h(78): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\58347\documents\visual studio 2015\projects\unionfind\unionfind\UnionFindTestHelper.h(104): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\58347\documents\visual studio 2015\projects\unionfind\unionfind\UnionFindTestHelper.h(127): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  21 of 33 functions (63.6%) were compiled, the rest were copied from previous compilation.
+    14 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  UnionFind.vcxproj -> C:\Users\58347\documents\visual studio 2015\Projects\UnionFind\x64\Release\UnionFind.exe
+  UnionFind.vcxproj -> C:\Users\58347\documents\visual studio 2015\Projects\UnionFind\x64\Release\UnionFind.pdb (Full PDB)

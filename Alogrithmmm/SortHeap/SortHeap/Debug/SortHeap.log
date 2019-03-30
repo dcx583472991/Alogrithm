@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\58347\documents\visual studio 2015\projects\sortheap\sortheap\sorttesthelper.h(19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\58347\documents\visual studio 2015\projects\sortheap\sortheap\sorttesthelper.h(76): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  SortHeap.vcxproj -> c:\users\58347\documents\visual studio 2015\Projects\SortHeap\Debug\SortHeap.exe
+  SortHeap.vcxproj -> c:\users\58347\documents\visual studio 2015\Projects\SortHeap\Debug\SortHeap.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\58347\documents\visual studio 2015\projects\unionfind\unionfind\unionfindtesthelper.h(17): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\58347\documents\visual studio 2015\projects\unionfind\unionfind\unionfindtesthelper.h(45): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  UnionFind.vcxproj -> C:\Users\58347\documents\visual studio 2015\Projects\UnionFind\Debug\UnionFind.exe
+  UnionFind.vcxproj -> C:\Users\58347\documents\visual studio 2015\Projects\UnionFind\Debug\UnionFind.pdb (Partial PDB)

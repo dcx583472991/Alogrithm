@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\58347\documents\visual studio 2015\projects\sort\sort\sorttesthelper.h(19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\58347\documents\visual studio 2015\projects\sort\sort\sorttesthelper.h(76): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\58347\documents\visual studio 2015\projects\sort\sort\sort.h(126): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  c:\users\58347\documents\visual studio 2015\projects\sort\sort\main.cpp(21): note: 参见对正在编译的函数 模板 实例化“void Sort::quickSort<T>(T [],int)”的引用
+          with
+          [
+              T=int
+          ]
+c:\users\58347\documents\visual studio 2015\projects\sort\sort\sort.h(174): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  c:\users\58347\documents\visual studio 2015\projects\sort\sort\main.cpp(22): note: 参见对正在编译的函数 模板 实例化“void Sort::quickSort2<T>(T [],int)”的引用
+          with
+          [
+              T=int
+          ]
+c:\users\58347\documents\visual studio 2015\projects\sort\sort\sort.h(229): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  c:\users\58347\documents\visual studio 2015\projects\sort\sort\main.cpp(23): note: 参见对正在编译的函数 模板 实例化“void Sort::quickSort3Ways<T>(T [],int)”的引用
+          with
+          [
+              T=int
+          ]
+  sort.vcxproj -> C:\Users\58347\Documents\Visual Studio 2015\Projects\sort\Debug\sort.exe
+  sort.vcxproj -> C:\Users\58347\Documents\Visual Studio 2015\Projects\sort\Debug\sort.pdb (Partial PDB)

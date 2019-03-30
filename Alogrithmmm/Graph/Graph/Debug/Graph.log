@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\58347\documents\visual studio 2015\projects\graph\graph\sparsegraph.h(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\58347\documents\visual studio 2015\projects\graph\graph\sparsegraph.h(74): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\58347\documents\visual studio 2015\projects\graph\graph\sparsegraph.h(108): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\58347\documents\visual studio 2015\projects\graph\graph\sparsegraph.h(116): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\58347\documents\visual studio 2015\projects\graph\graph\path.h(94): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\58347\documents\visual studio 2015\projects\graph\graph\path.h(88): note: 编译类 模板 成员函数“void Path<SparseGraph>::showPath(int)”时
+  c:\users\58347\documents\visual studio 2015\projects\graph\graph\main.cpp(95): note: 参见对正在编译的函数 模板 实例化“void Path<SparseGraph>::showPath(int)”的引用
+  c:\users\58347\documents\visual studio 2015\projects\graph\graph\main.cpp(93): note: 参见对正在编译的类 模板 实例化“Path<SparseGraph>”的引用
+  Graph.vcxproj -> C:\Users\58347\documents\visual studio 2015\Projects\Graph\Debug\Graph.exe
+  Graph.vcxproj -> C:\Users\58347\documents\visual studio 2015\Projects\Graph\Debug\Graph.pdb (Partial PDB)
